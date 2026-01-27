@@ -1,0 +1,331 @@
+﻿IDNumber,GroupName,StudentName,TrolleyScenario,Choice,ConfidenceLevel
+101,Soul Stats,Sam,1,P,4
+101,Soul Stats,Sam,2,P,4
+101,Soul Stats,Sam,3,P,5
+102,Soul Stats,Sam,1,P,4
+102,Soul Stats,Sam,2,P,4
+102,Soul Stats,Sam,3,N,5
+103,Soul Stats,Sam,1,P,5
+103,Soul Stats,Sam,2,P,4
+103,Soul Stats,Sam,3,N,5
+104,Soul Stats,Sam,1,P,5
+104,Soul Stats,Sam,2,P,5
+104,Soul Stats,Sam,3,N,5
+105,Soul Stats,Sam,1,P,4
+105,Soul Stats,Sam,2,N,3
+105,Soul Stats,Sam,3,N,5
+106,Soul Stats,Sam,1,P,2
+106,Soul Stats,Sam,2,P,2
+106,Soul Stats,Sam,3,N,5
+107,Soul Stats,Sam,1,N,4
+107,Soul Stats,Sam,2,N,5
+107,Soul Stats,Sam,3,N,5
+108,Soul Stats,Alisa,1,N,2
+108,Soul Stats,Alisa,2,N,3
+108,Soul Stats,Alisa,3,N,5
+109,Soul Stats,Alisa,1,P,4
+109,Soul Stats,Alisa,2,P,2
+109,Soul Stats,Alisa,3,N,5
+110,Soul Stats,Alisa,1,P,1
+110,Soul Stats,Alisa,2,N,2
+110,Soul Stats,Alisa,3,N,5
+111,Soul Stats,Alisa,1,P,2
+111,Soul Stats,Alisa,2,N,3
+111,Soul Stats,Alisa,3,N,4
+112,Soul Stats,Alisa,1,N,1
+112,Soul Stats,Alisa,2,N,4
+112,Soul Stats,Alisa,3,P,5
+113,Soul Stats,Alisa,1,P,2
+113,Soul Stats,Alisa,2,P,3
+113,Soul Stats,Alisa,3,N,5
+114,Soul Stats,Alisa,1,N,2
+114,Soul Stats,Alisa,2,N,2
+114,Soul Stats,Alisa,3,N,3
+115,Soul Stats,Amber,1,P,5
+115,Soul Stats,Amber,2,P,5
+115,Soul Stats,Amber,3,N,3
+116,Soul Stats,Amber,1,P,4
+116,Soul Stats,Amber,2,P,3
+116,Soul Stats,Amber,3,N,5
+117,Soul Stats,Amber,1,N,5
+117,Soul Stats,Amber,2,N,5
+117,Soul Stats,Amber,3,N,5
+118,Soul Stats,Amber,1,P,1
+118,Soul Stats,Amber,2,P,1
+118,Soul Stats,Amber,3,N,1
+119,Soul Stats,Amber,1,P,5
+119,Soul Stats,Amber,2,N,2
+119,Soul Stats,Amber,3,N,5
+120,Soul Stats,Amber,1,P,3
+120,Soul Stats,Amber,2,N,3
+120,Soul Stats,Amber,3,N,5
+201,Stats Anonymous,Bri,1,P,1
+201,Stats Anonymous,Bri,2,P,5
+201,Stats Anonymous,Bri,3,N,3
+202,Stats Anonymous,Bri,1,P,5
+202,Stats Anonymous,Bri,2,N,3
+202,Stats Anonymous,Bri,3,P,4
+203,Stats Anonymous,Bri,1,P,5
+203,Stats Anonymous,Bri,2,N,4
+203,Stats Anonymous,Bri,3,P,5
+204,Stats Anonymous,Bri,1,P,5
+204,Stats Anonymous,Bri,2,N,2
+204,Stats Anonymous,Bri,3,N,4
+205,Stats Anonymous,Bri,1,P,4
+205,Stats Anonymous,Bri,2,P,5
+205,Stats Anonymous,Bri,3,N,5
+206,Stats Anonymous,Leah,1,P,5
+206,Stats Anonymous,Leah,2,P,4
+206,Stats Anonymous,Leah,3,N, 
+207,Stats Anonymous,Leah,1,P,5
+207,Stats Anonymous,Leah,2,P,3
+207,Stats Anonymous,Leah,3,P,5
+208,Stats Anonymous,Leah,1,P,5
+208,Stats Anonymous,Leah,2,P,5
+208,Stats Anonymous,Leah,3,P,3
+209,Stats Anonymous,Leah,1,P,5
+209,Stats Anonymous,Leah,2,N,3
+209,Stats Anonymous,Leah,3,N,4
+210,Stats Anonymous,Leah,1,P,5
+210,Stats Anonymous,Leah,2,N,4
+210,Stats Anonymous,Leah,3,N,3
+211,Stats Anonymous,Molly,1,P,4
+211,Stats Anonymous,Molly,2,N,2
+211,Stats Anonymous,Molly,3,P,3
+212,Stats Anonymous,Molly,1,P,3
+212,Stats Anonymous,Molly,2,N,5
+212,Stats Anonymous,Molly,3,N,5
+213,Stats Anonymous,Molly,1,P,5
+213,Stats Anonymous,Molly,2,N,4
+213,Stats Anonymous,Molly,3,N,3
+214,Stats Anonymous,Molly,1,P,4
+214,Stats Anonymous,Molly,2,N,3
+214,Stats Anonymous,Molly,3,P,1
+215,Stats Anonymous,Molly,1,P,4
+215,Stats Anonymous,Molly,2,P,5
+215,Stats Anonymous,Molly,3,P,2
+241,Stats Anonymous,Rachel,1,P,4
+241,Stats Anonymous,Rachel,2,P,5
+241,Stats Anonymous,Rachel,3,N,5
+242,Stats Anonymous,Rachel,1,P,5
+242,Stats Anonymous,Rachel,2,N,1
+242,Stats Anonymous,Rachel,3,P,2
+243,Stats Anonymous,Rachel,1,P,4
+243,Stats Anonymous,Rachel,2,N,2
+243,Stats Anonymous,Rachel,3,N,3
+244,Stats Anonymous,Rachel,1,P,4
+244,Stats Anonymous,Rachel,2,N,3
+244,Stats Anonymous,Rachel,3,N,4
+245,Stats Anonymous,Rachel,1,P,5
+245,Stats Anonymous,Rachel,2,P,3
+245,Stats Anonymous,Rachel,3,N,3
+300,Stat Safari,Kyrstin,1,P,5
+300,Stat Safari,Kyrstin,2,P,5
+300,Stat Safari,Kyrstin,3,P,5
+301,Stat Safari,Kyrstin,1,P,2
+301,Stat Safari,Kyrstin,2,P,5
+301,Stat Safari,Kyrstin,3,N,2
+302,Stat Safari,Kyrstin,1,P,5
+302,Stat Safari,Kyrstin,2,N,3
+302,Stat Safari,Kyrstin,3,N,2
+303,Stat Safari,Kyrstin,1,P,5
+303,Stat Safari,Kyrstin,2,P,5
+303,Stat Safari,Kyrstin,3,N,2
+304,Stat Safari,Kyrstin,1,P,5
+304,Stat Safari,Kyrstin,2,P,5
+304,Stat Safari,Kyrstin,3,P,4
+305,Stat Safari,Kyrstin,1,P,5
+305,Stat Safari,Kyrstin,2,N,3
+305,Stat Safari,Kyrstin,3,P,5
+306,Stat Safari,Kyrstin,1,P,5
+306,Stat Safari,Kyrstin,2,P,5
+306,Stat Safari,Kyrstin,3,N,2
+307,Stat Safari,Kyrstin,1,P,1
+307,Stat Safari,Kyrstin,2,N,5
+307,Stat Safari,Kyrstin,3,N,5
+308,Stat Safari,Kyrstin,1,P,5
+308,Stat Safari,Kyrstin,2,N,3
+308,Stat Safari,Kyrstin,3,N,1
+309,Stat Safari,Kyrstin,1,P,5
+309,Stat Safari,Kyrstin,2,P,5
+309,Stat Safari,Kyrstin,3,N,3
+310,Stat Safari,Ella,1,P,4
+310,Stat Safari,Ella,2,P,5
+310,Stat Safari,Ella,3,P,3
+311,Stat Safari,Ella,1,P,4
+311,Stat Safari,Ella,2,N,5
+311,Stat Safari,Ella,3,N,5
+312,Stat Safari,Ella,1,P,5
+312,Stat Safari,Ella,2,P,5
+312,Stat Safari,Ella,3,P,5
+313,Stat Safari,Ella,1,P,3
+313,Stat Safari,Ella,2,P,5
+313,Stat Safari,Ella,3,N,5
+314,Stat Safari,Ella,1,P,4
+314,Stat Safari,Ella,2,P,5
+314,Stat Safari,Ella,3,N,5
+315,Stat Safari,Ella,1,P,5
+315,Stat Safari,Ella,2,P,5
+315,Stat Safari,Ella,3,N,5
+316,Stat Safari,Ella,1,P,5
+316,Stat Safari,Ella,2,P,5
+316,Stat Safari,Ella,3,P,5
+317,Stat Safari,Ella,1,P,3
+317,Stat Safari,Ella,2,P,4
+317,Stat Safari,Ella,3,N,5
+318,Stat Safari,Ella,1,P,5
+318,Stat Safari,Ella,2,P,4
+318,Stat Safari,Ella,3,P,3
+319,Stat Safari,Ella,1,P,5
+319,Stat Safari,Ella,2,N,4
+319,Stat Safari,Ella,3,N,4
+320,Stat Safari,Ella,1,P,5
+320,Stat Safari,Ella,2,P,5
+320,Stat Safari,Ella,3,N,4
+401,The Criminal Cortex,Maya,1,P,2
+401,The Criminal Cortex,Maya,2,N,5
+401,The Criminal Cortex,Maya,3,P,5
+402,The Criminal Cortex,Maya,1,P,5
+402,The Criminal Cortex,Maya,2,N,3
+402,The Criminal Cortex,Maya,3,N,3
+403,The Criminal Cortex,Maya,1,P,4
+403,The Criminal Cortex,Maya,2,N,4
+403,The Criminal Cortex,Maya,3,N,1
+404,The Criminal Cortex,Maya,1,P,5
+404,The Criminal Cortex,Maya,2,N,5
+404,The Criminal Cortex,Maya,3,P,5
+405,The Criminal Cortex,Maya,1,P,5
+405,The Criminal Cortex,Maya,2,P,4
+405,The Criminal Cortex,Maya,3,P,3
+406,The Criminal Cortex,Maya,1,P,5
+406,The Criminal Cortex,Maya,2,N,2
+406,The Criminal Cortex,Maya,3,N,3
+407,The Criminal Cortex,Maya,1,P,3
+407,The Criminal Cortex,Maya,2,N,4
+407,The Criminal Cortex,Maya,3,P,3
+408,The Criminal Cortex,Maya,1,P,4
+408,The Criminal Cortex,Maya,2,N,4
+408,The Criminal Cortex,Maya,3,P,2
+409,The Criminal Cortex,Maya,1,P,1
+409,The Criminal Cortex,Maya,2,P,1
+409,The Criminal Cortex,Maya,3,N,5
+410,The Criminal Cortex,Maya,1,P,3
+410,The Criminal Cortex,Maya,2,N,2
+410,The Criminal Cortex,Maya,3,N,3
+416,The Criminal Cortex,Valentina,1,P,5
+416,The Criminal Cortex,Valentina,2,P,5
+416,The Criminal Cortex,Valentina,3,P,5
+417,The Criminal Cortex,Valentina,1,P,5
+417,The Criminal Cortex,Valentina,2,P,5
+417,The Criminal Cortex,Valentina,3,N,5
+418,The Criminal Cortex,Valentina,1,P,5
+418,The Criminal Cortex,Valentina,2,P,4
+418,The Criminal Cortex,Valentina,3,N,4
+419,The Criminal Cortex,Valentina,1,P,4
+419,The Criminal Cortex,Valentina,2,P,5
+419,The Criminal Cortex,Valentina,3,N,5
+420,The Criminal Cortex,Valentina,1,P,5
+420,The Criminal Cortex,Valentina,2,P,5
+420,The Criminal Cortex,Valentina,3,P,5
+501,Trauma&Chill,Sebastian,1,N,5
+501,Trauma&Chill,Sebastian,2,N,5
+501,Trauma&Chill,Sebastian,3,N,5
+502,Trauma&Chill,Sebastian,1,P,4
+502,Trauma&Chill,Sebastian,2,N,3
+502,Trauma&Chill,Sebastian,3,P,3
+503,Trauma&Chill,Sebastian,1,P,2
+503,Trauma&Chill,Sebastian,2,P,3
+503,Trauma&Chill,Sebastian,3,P,4
+504,Trauma&Chill,Sebastian,1,P,4
+504,Trauma&Chill,Sebastian,2,P,5
+504,Trauma&Chill,Sebastian,3,P,5
+505,Trauma&Chill,Sebastian,1,N,5
+505,Trauma&Chill,Sebastian,2,P,5
+505,Trauma&Chill,Sebastian,3,P,5
+506,Trauma&Chill,Sebastian,1,P,3
+506,Trauma&Chill,Sebastian,2,N,4
+506,Trauma&Chill,Sebastian,3,N,2
+507,Trauma&Chill,Sebastian,1,P,5
+507,Trauma&Chill,Sebastian,2,N,5
+507,Trauma&Chill,Sebastian,3,P,5
+508,Trauma&Chill,versha,1,P,5
+508,Trauma&Chill,versha,2,N,3
+508,Trauma&Chill,versha,3,P,5
+509,Trauma&Chill,versha,1,P,5
+509,Trauma&Chill,versha,2,P,5
+509,Trauma&Chill,versha,3,P,4
+510,Trauma&Chill,versha,1,P,5
+510,Trauma&Chill,versha,2,P,2
+510,Trauma&Chill,versha,3,P,1
+511,Trauma&Chill,versha,1,P,5
+511,Trauma&Chill,versha,2,N,1
+511,Trauma&Chill,versha,3,P,2
+512,Trauma&Chill,versha,1,P,3
+512,Trauma&Chill,versha,2,P,2
+512,Trauma&Chill,versha,3,P,3
+513,Trauma&Chill,versha,1,P,5
+513,Trauma&Chill,versha,2,P,5
+513,Trauma&Chill,versha,3,P,4
+514,Trauma&Chill,versha,1,P,5
+514,Trauma&Chill,versha,2,P,3
+514,Trauma&Chill,versha,3,N,2
+515,Trauma&Chill,Rodrigo,1,P,4
+515,Trauma&Chill,Rodrigo,2,P,4
+515,Trauma&Chill,Rodrigo,3,P,3
+516,Trauma&Chill,Rodrigo,1,P,5
+516,Trauma&Chill,Rodrigo,2,P,4
+516,Trauma&Chill,Rodrigo,3,P,4
+517,Trauma&Chill,Rodrigo,1,P,2
+517,Trauma&Chill,Rodrigo,2,N,2
+517,Trauma&Chill,Rodrigo,3,N,2
+518,Trauma&Chill,Rodrigo,1,P,3
+518,Trauma&Chill,Rodrigo,2,N,3
+518,Trauma&Chill,Rodrigo,3,N,1
+519,Trauma&Chill,Rodrigo,1,P,5
+519,Trauma&Chill,Rodrigo,2,P,4
+519,Trauma&Chill,Rodrigo,3,P,5
+520,Trauma&Chill,Rodrigo,1,P,4
+520,Trauma&Chill,Rodrigo,2,P,5
+520,Trauma&Chill,Rodrigo,3,N,3
+521,Trauma&Chill,Rodrigo,1,N,1
+521,Trauma&Chill,Rodrigo,2,P,1
+521,Trauma&Chill,Rodrigo,3,N,1
+601,Locked In,Isaiah,1,P,5
+601,Locked In,Isaiah,2,P,3
+601,Locked In,Isaiah,3,P,4
+602,Locked In,Isaiah,1,P,5
+602,Locked In,Isaiah,2,N,2
+602,Locked In,Isaiah,3,N,1
+603,Locked In,Isaiah,1,P,5
+603,Locked In,Isaiah,2,N,3
+603,Locked In,Isaiah,3,P,2
+604,Locked In,Isaiah,1,N,5
+604,Locked In,Isaiah,2,P,4
+604,Locked In,Isaiah,3,P,5
+605,Locked In,Isaiah,1,P,5
+605,Locked In,Isaiah,2,P,2
+605,Locked In,Isaiah,3,N,1
+606,Locked In,Isaiah,1,P,5
+606,Locked In,Isaiah,2,P,3
+606,Locked In,Isaiah,3,N,4
+607,Locked In,Isaiah,1,P,5
+607,Locked In,Isaiah,2,P,2
+607,Locked In,Isaiah,3,P,1
+608,Locked In,Jacob,1,P,5
+608,Locked In,Jacob,2,P,5
+608,Locked In,Jacob,3,P,4
+609,Locked In,Jacob,1,N,3
+609,Locked In,Jacob,2,N,3
+609,Locked In,Jacob,3,P,4
+610,Locked In,Jacob,1,P,5
+610,Locked In,Jacob,2,N,5
+610,Locked In,Jacob,3,N,3
+611,Locked In,Jacob,1,P,2
+611,Locked In,Jacob,2,P,1
+611,Locked In,Jacob,3,N,4
+612,Locked In,Jacob,1,N,3
+612,Locked In,Jacob,2,N,3
+612,Locked In,Jacob,3,P,4
+613,Locked In,Jacob,1,P,1
+613,Locked In,Jacob,2,N,2
+613,Locked In,Jacob,3,N,2
